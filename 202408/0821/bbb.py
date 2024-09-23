@@ -1,0 +1,8 @@
+print( 2+3 )
+print( 32 + 2334)
+print()
+print( '가나다' )
+print( "가나다" )
+print()
+print( 'chan' )
+print( "hyeok" )
